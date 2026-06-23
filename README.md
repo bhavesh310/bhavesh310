@@ -43,7 +43,7 @@ Name         : Bhavesh Ghatode
 Role         : Full Stack Developer | AI Enthusiast
 Education    : B.Tech Information Technology Graduate (2026)
 Experience   : Ex-Web Developer Intern @ Crystaltech Services Pvt. Ltd. | Codec Technologies
-Specializing : React.js | Node.js | FastAPI | MongoDB | AI Integrations
+Specializing : React.js | Node.js | FastAPI | AI Integrations
 Learning     : Spring Boot | Spring AI | System Design
 Achievements : LeetCode Knight | 430+ Problems Solved | 1899 Rating
 Projects     : NEXIQ | ROAMIO
@@ -221,7 +221,11 @@ Mission      : Building impactful AI-powered products that solve real-world prob
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=contest&border=0&radius=20" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/bhaveshghatode_3?theme=dark&font=Nunito&ext=contest&border=0&radius=20" alt="LeetCode Stats" width="400"/>
+
+<br><br>
+
+<img src="https://leetcard.jacoblin.cool/bhaveshghatode_24?theme=dark&font=Nunito&ext=contest&border=0&radius=20" alt="LeetCode Stats" width="400"/>
 
 </div>
 
