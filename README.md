@@ -151,19 +151,24 @@ Mission      : Building impactful AI-powered products that solve real-world prob
 
 ### 🤖 NEXIQ – AI Assistant Platform
 
-<a href="YOUR_NEXIQ_REPO_URL">
-  <img src="https://github.com/bhavesh310/bhavesh310/blob/main/NEXIQ.png" />
+<a href="https://github.com/bhavesh310/NEXIQ.AI-2">
+  <img src="https://github.com/bhavesh310/bhavesh310/blob/main/NEXIQ.png" width="65%" />
 </a>
 
 </div>
 
 > **Tech Stack:** `ReactJS` `FastAPI` `MYSQL` `LLM APIs` `JWT`
 
-- 🏭 Production-grade **AI Assistant Platform**
-- ⚡ Real-time Response Streaming using **SSE**
-- 🔐 **JWT Authentication** & Secure Sessions
-- 💬 Multi-Conversation Management
-- 📊 Analytics Dashboard & **Token Tracking**
+### ✨ Key Features
+
+- 🤖 Production-grade AI Assistant Platform for developers
+- ⚡ Real-time AI response streaming using SSE
+- 🔐 Secure JWT Authentication & Session Management
+- 💬 Persistent Multi-Conversation Support
+- 🧠 GPT-5.2 & Claude 4.5 Integration
+- 📊 Analytics Dashboard with Token Tracking
+- 🚀 High-Performance FastAPI Backend
+- 🌙 Modern, Responsive & Developer-First UI
 
 ---
 
