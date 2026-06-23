@@ -184,12 +184,16 @@ Mission      : Building impactful AI-powered products that solve real-world prob
 
 > **Tech Stack:** `React` `TypeScript` `Tailwind CSS` `Zustand` `Vite`
 
-- 🤖 **AI-Powered** Hotel Booking Experience
-- 🧩 **30+ Reusable** Components
-- 🚦 Lighthouse Score **90+**
-- 🎬 Smooth **60 FPS** Animations
-- 📱 Fully **Responsive Design**
+### ✨ Key Features
 
+- 🏨 **AI-Powered Hotel Booking Platform** with intelligent recommendations
+- 🔍 **Advanced Search & Filtering** for seamless hotel discovery
+- 🧩 Built with **30+ Reusable Components** for scalability and maintainability
+- 🚦 Achieved **90+ Lighthouse Score** for performance and accessibility
+- 🎬 Smooth **60 FPS Animations** delivering a premium user experience
+- 📱 Fully **Responsive Design** optimized for mobile, tablet, and desktop
+- ⚡ Fast, modern frontend powered by **React, TypeScript & Vite**
+- 🎨 Elegant UI crafted with **Tailwind CSS** and modern design principles
 ---
 
 ## 📜 Certifications
