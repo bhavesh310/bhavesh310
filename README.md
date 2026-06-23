@@ -3,12 +3,11 @@
 <!-- Animated wave header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bhavesh%20Ghatode&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=16"/>
 
-<!-- Profile Picture Placeholder -->
-<!-- Replace the URL below with your actual photo URL -->
-<img src="https://via.placeholder.com/150/0a192f/00d4ff?text=BG" 
+<!-- Profile Picture-->
+<img src="https://github.com/bhavesh310/bhavesh310/blob/main/image.png" 
      alt="Bhavesh Ghatode" 
-     width="150" 
-     height="150"
+     width="350" 
+     height="350"
      style="border-radius: 50%; border: 4px solid #00d4ff; margin: 10px;"
 />
 
@@ -19,26 +18,19 @@
 
 <!-- Social badges -->
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/bhavesh-kumar-4466a3276/?skipRedirect=true" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:bhaveshghatode1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/bhavesh310" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank">
+  <a href="https://www.codechef.com/users/bhaveshghatode" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
 </p>
-
-<!-- Profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social" alt="GitHub Followers"/>
 
 </div>
 
@@ -47,22 +39,28 @@
 ## 🚀 About Me
 
 ```yaml
-name       : Bhavesh Ghatode
-education  : B.Tech Information Technology Graduate (2026)
-experience : Web Developer Intern @ Crystaltech Services Pvt. Ltd.
-focus      : AI-Powered Full Stack Applications
-learning   : Spring Boot | Spring AI | System Design
-interests  : Web Dev | Artificial Intelligence | Problem Solving
+Name         : Bhavesh Ghatode
+Role         : Full Stack Developer | AI Enthusiast
+Education    : B.Tech Information Technology Graduate (2026)
+Experience   : Ex-Web Developer Intern @ Crystaltech Services Pvt. Ltd. | Codec Technologies
+Specializing : React.js | Node.js | FastAPI | MongoDB | AI Integrations
+Learning     : Spring Boot | Spring AI | System Design
+Achievements : LeetCode Knight | 430+ Problems Solved | 1899 Rating
+Projects     : NEXIQ | ROAMIO
+Interests    : Full Stack Development | Artificial Intelligence | Problem Solving
+Mission      : Building impactful AI-powered products that solve real-world problems
 ```
 
 <img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
 
-- 🎓 **B.Tech IT Graduate** (2026)
-- 💼 Former **Web Developer Intern** at Crystaltech Services Pvt. Ltd.
+- 🎓 **B.Tech Information Technology Graduate** (2026)
+- 💼 Former **Web Developer Intern** at **Crystaltech Services Pvt. Ltd.** & **Codec Technologies**
 - 🔭 Currently building **AI-Powered Full Stack Applications**
-- 🌱 Learning **Spring Boot**, **Spring AI** & **System Design**
-- ⚡ Solved **400+ DSA Problems** on LeetCode
-- 🏆 **LeetCode Knight** | Rating: **1828** | **2⭐ CodeChef** | **5⭐ HackerRank**
+- 🌱 Learning **Generative AI**, **Agentic AI**,**System Design** & **Scalable Backend Architecture** to build intelligent, production-ready applications
+- ⚡ Solved **430+ DSA Problems** across LeetCode, GeeksforGeeks & HackerRank
+- 🏆 **LeetCode Knight** (1899 Rating) | **2⭐ CodeChef** | **5⭐ HackerRank**
+- 🚀 Built production-grade projects like **NEXIQ** and **ROAMIO**
+- 💡 Passionate about **Full Stack Development**, **Artificial Intelligence** & **Problem Solving**
 - 📫 Reach me at **bhaveshghatode1@gmail.com**
 
 ---
