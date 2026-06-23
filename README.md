@@ -13,7 +13,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&height=60&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+Application+Builder+%F0%9F%A4%96;400%2B+LeetCode+Problems+Solved+%F0%9F%8F%86;React+%7C+Node.js+%7C+FastAPI+%E2%9A%A1;Always+Learning+Something+New+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&height=60&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+Application+Builder+%F0%9F%A4%96;430%2B+LeetCode+Problems+Solved+%F0%9F%8F%86;React+%7C+Node.js+%7C+FastAPI+%E2%9A%A1;Always+Learning+Something+New+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 <!-- Social badges -->
@@ -58,7 +58,7 @@ Mission      : Building impactful AI-powered products that solve real-world prob
 - 🔭 Currently building **AI-Powered Full Stack Applications**
 - 🌱 Learning **Generative AI**, **Agentic AI**,**System Design** & **Scalable Backend Architecture** to build intelligent, production-ready applications
 - ⚡ Solved **430+ DSA Problems** across LeetCode, GeeksforGeeks & HackerRank
-- 🏆 **LeetCode Knight** (1899 Rating) | **2⭐ CodeChef** | **5⭐ HackerRank**
+- 🏆 **LeetCode Knight** (1899 Rating) | **3⭐ CodeChef** | **5⭐ HackerRank**
 - 🚀 Built production-grade projects like **NEXIQ** and **ROAMIO**
 - 💡 Passionate about **Full Stack Development**, **Artificial Intelligence** & **Problem Solving**
 - 📫 Reach me at **bhaveshghatode1@gmail.com**
@@ -98,7 +98,6 @@ Mission      : Building impactful AI-powered products that solve real-world prob
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 </details>
 
@@ -107,7 +106,6 @@ Mission      : Building impactful AI-powered products that solve real-world prob
 <br/>
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </details>
 
@@ -130,13 +128,18 @@ Mission      : Building impactful AI-powered products that solve real-world prob
 
 | 🏅 Achievement | 📊 Details |
 |:---|:---|
-| 🥇 LeetCode Knight | Rating: **1828** |
-| 💻 LeetCode Problems | **400+** Solved |
-| ⭐ CodeChef | **2-Star** |
+| 🥇 LeetCode Knight | Rating: **1899** |
+| 💻 LeetCode Problems | **430+** Solved |
+| 🚀 GeeksforGeeks | **150+** Problems Solved |
+| ⭐ CodeChef | **3-Star** |
 | ⭐ HackerRank | **5-Star** |
-| 🚀 GeeksforGeeks | **150+** Problems |
-| 🤖 AI & Gen AI | Certified |
-| 📊 Data Analytics | Deloitte Job Simulation |
+| 🏆 TECHgium 9.0 | **LTTS Semi-Finalist** |
+| 🚀 HackVega 2.0 | **Finalist** |
+| 🏅 Naukri Campus Young Turks 2025 | Score: **98.86 Percentile** |
+| 🤖 IBM AI Fundamentals | **IBM AI Badge Holder** |
+| 🧠 AI Fluency | **Anthropic Certified** |
+| ✨ Generative AI | Multiple Industry Certifications |
+| 📊 Data Analytics | **Deloitte Job Simulation** |
 
 </div>
 
@@ -149,12 +152,12 @@ Mission      : Building impactful AI-powered products that solve real-world prob
 ### 🤖 NEXIQ – AI Assistant Platform
 
 <a href="YOUR_NEXIQ_REPO_URL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=nexiq&theme=tokyonight&hide_border=true" />
+  <img src="https://github.com/bhavesh310/bhavesh310/blob/main/NEXIQ.png" />
 </a>
 
 </div>
 
-> **Tech Stack:** `ReactJS` `FastAPI` `MongoDB` `LLM APIs` `JWT`
+> **Tech Stack:** `ReactJS` `FastAPI` `MYSQL` `LLM APIs` `JWT`
 
 - 🏭 Production-grade **AI Assistant Platform**
 - ⚡ Real-time Response Streaming using **SSE**
