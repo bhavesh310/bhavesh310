@@ -256,7 +256,7 @@ Mission      : Building impactful AI-powered products that solve real-world prob
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavesh310&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff" alt="Contribution Graph"/>
 
 </div>
 
@@ -267,9 +267,9 @@ Mission      : Building impactful AI-powered products that solve real-world prob
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg"/>
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhavesh310/bhavesh310/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhavesh310/bhavesh310/output/github-snake.svg"/>
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/bhavesh310/bhavesh310/output/github-snake-dark.svg"/>
 </picture>
 
 </div>
