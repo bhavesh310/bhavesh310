@@ -176,8 +176,8 @@ Mission      : Building impactful AI-powered products that solve real-world prob
 
 ### 🏨 ROAMIO – Luxury Hotel Booking Platform
 
-<a href="YOUR_ROAMIO_REPO_URL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=roamio&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/bhavesh310/Hotel_App">
+  <img src="https://github.com/bhavesh310/bhavesh310/blob/main/ROAMIO.png" width="65%" />
 </a>
 
 </div>
