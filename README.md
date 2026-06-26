@@ -58,7 +58,7 @@ Mission      : Building impactful AI-powered products that solve real-world prob
 - 🔭 Currently building **AI-Powered Full Stack Applications**
 - 🌱 Learning **Generative AI**, **Agentic AI**,**System Design** & **Scalable Backend Architecture** to build intelligent, production-ready applications
 - ⚡ Solved **430+ DSA Problems** across LeetCode, GeeksforGeeks & HackerRank
-- 🏆 **LeetCode Knight** (1899 Rating) | **3⭐ CodeChef** | **5⭐ HackerRank**
+- 🏆 **LeetCode Knight** (2027 Rating) | **3⭐ CodeChef** | **5⭐ HackerRank**
 - 🚀 Built production-grade projects like **NEXIQ** and **ROAMIO**
 - 💡 Passionate about **Full Stack Development**, **Artificial Intelligence** & **Problem Solving**
 - 📫 Reach me at **bhaveshghatode1@gmail.com**
@@ -128,7 +128,7 @@ Mission      : Building impactful AI-powered products that solve real-world prob
 
 | 🏅 Achievement | 📊 Details |
 |:---|:---|
-| 🥇 LeetCode Knight | Rating: **1899** |
+| 🥇 LeetCode Knight | Rating: **2027** |
 | 💻 LeetCode Problems | **430+** Solved |
 | 🚀 GeeksforGeeks | **150+** Problems Solved |
 | ⭐ CodeChef | **3-Star** |
