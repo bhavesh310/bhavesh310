@@ -57,7 +57,7 @@ Mission      : Building impactful AI-powered products that solve real-world prob
 - 💼 Former **Web Developer Intern** at **Crystaltech Services Pvt. Ltd.** & **Codec Technologies**
 - 🔭 Currently building **AI-Powered Full Stack Applications**
 - 🌱 Learning **Generative AI**, **Agentic AI**,**System Design** & **Scalable Backend Architecture** to build intelligent, production-ready applications
-- ⚡ Solved **430+ DSA Problems** across LeetCode, GeeksforGeeks & HackerRank
+- ⚡ Solved **440+ DSA Problems** across LeetCode, GeeksforGeeks & HackerRank
 - 🏆 **LeetCode Knight** (2027 Rating) | **3⭐ CodeChef** | **5⭐ HackerRank**
 - 🚀 Built production-grade projects like **NEXIQ** and **ROAMIO**
 - 💡 Passionate about **Full Stack Development**, **Artificial Intelligence** & **Problem Solving**
@@ -129,7 +129,7 @@ Mission      : Building impactful AI-powered products that solve real-world prob
 | 🏅 Achievement | 📊 Details |
 |:---|:---|
 | 🥇 LeetCode Knight | Rating: **2027** |
-| 💻 LeetCode Problems | **430+** Solved |
+| 💻 LeetCode Problems | **440+** Solved |
 | 🚀 GeeksforGeeks | **150+** Problems Solved |
 | ⭐ CodeChef | **3-Star** |
 | ⭐ HackerRank | **5-Star** |
