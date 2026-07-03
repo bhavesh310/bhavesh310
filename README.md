@@ -13,7 +13,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&height=60&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+Application+Builder+%F0%9F%A4%96;430%2B+LeetCode+Problems+Solved+%F0%9F%8F%86;React+%7C+Node.js+%7C+FastAPI+%E2%9A%A1;Always+Learning+Something+New+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&height=60&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+Application+Builder+%F0%9F%A4%96;450%2B+LeetCode+Problems+Solved+%F0%9F%8F%86;React+%7C+Node.js+%7C+FastAPI+%E2%9A%A1;Always+Learning+Something+New+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 <!-- Social badges -->
@@ -57,8 +57,8 @@ Mission      : Building impactful AI-powered products that solve real-world prob
 - 💼 Former **Web Developer Intern** at **Crystaltech Services Pvt. Ltd.** & **Codec Technologies**
 - 🔭 Currently building **AI-Powered Full Stack Applications**
 - 🌱 Learning **Generative AI**, **Agentic AI**,**System Design** & **Scalable Backend Architecture** to build intelligent, production-ready applications
-- ⚡ Solved **440+ DSA Problems** across LeetCode, GeeksforGeeks & HackerRank
-- 🏆 **LeetCode Knight** (2027 Rating) | **3⭐ CodeChef** | **5⭐ HackerRank**
+- ⚡ Solved **450+ DSA Problems** across LeetCode, GeeksforGeeks & HackerRank
+- 🏆 **LeetCode Knight** (2032 Rating) | **3⭐ CodeChef** | **5⭐ HackerRank**
 - 🚀 Built production-grade projects like **NEXIQ** and **ROAMIO**
 - 💡 Passionate about **Full Stack Development**, **Artificial Intelligence** & **Problem Solving**
 - 📫 Reach me at **bhaveshghatode1@gmail.com**
@@ -128,8 +128,8 @@ Mission      : Building impactful AI-powered products that solve real-world prob
 
 | 🏅 Achievement | 📊 Details |
 |:---|:---|
-| 🥇 LeetCode Knight | Rating: **2027** |
-| 💻 LeetCode Problems | **440+** Solved |
+| 🥇 LeetCode Knight | Rating: **2032** |
+| 💻 LeetCode Problems | **450+** Solved |
 | 🚀 GeeksforGeeks | **150+** Problems Solved |
 | ⭐ CodeChef | **3-Star** |
 | ⭐ HackerRank | **5-Star** |
