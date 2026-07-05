@@ -196,6 +196,35 @@ Mission      : Building impactful AI-powered products that solve real-world prob
 - 🎨 Elegant UI crafted with **Tailwind CSS** and modern design principles
 ---
 
+<div align="center">
+
+### 🧠 NeuroNotes – AI-Native Note-Taking Platform
+
+<a href="https://github.com/bhavesh310/NeuroNotes">
+  <img src="https://github.com/bhavesh310/bhavesh310/blob/main/NeuroNotes.png" width="65%" />
+</a>
+
+</div>
+
+> **Tech Stack:** `React` `TypeScript` `Vite` `Tailwind CSS` `Supabase` `PostgreSQL` `Tiptap` `Gemini 2.5 Flash` `SSE Streaming`
+
+### ✨ Key Features
+
+- 🧠 AI-native note-taking platform with a built-in intelligent assistant
+- ⚡ Real-time token-by-token AI streaming using Server-Sent Events (SSE)
+- ✍️ Rich text editor powered by Tiptap with live Markdown rendering
+- 💬 Context-aware AI that understands the active note before responding
+- 🚀 One-click AI actions: Summarize, Expand, Outline, Flashcards, LinkedIn Post & Grammar Fix
+- 🎙️ Voice-to-Note with real-time speech recognition and auto-reconnect
+- 🌐 Interactive Knowledge Graph to visualize relationships between notes
+- 🔍 Instant live search with smart tag-based filtering
+- 📄 Beautiful public note sharing with shareable links
+- 🎯 Distraction-free Focus Mode for deep writing sessions
+- 🔐 Secure authentication and cloud synchronization via Supabase Auth
+- 📈 Serverless architecture powered by Supabase Edge Functions
+- 🌙 Modern glassmorphism-inspired UI with fully responsive design
+- ⚡ Optimized AI pipeline with ~0.6s time-to-first-token
+
 ## 📜 Certifications
 
 <div align="center">
