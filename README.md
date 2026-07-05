@@ -201,8 +201,7 @@ Mission      : Building impactful AI-powered products that solve real-world prob
 ### 🧠 NeuroNotes – AI-Native Note-Taking Platform
 
 <a href="https://github.com/bhavesh310/NeuroNotes">
-  <img src="https://github.com/bhavesh310/bhavesh310/blob/main/Neuro_Notes_.png
-" width="65%" />
+  <img src="https://github.com/bhavesh310/bhavesh310/blob/main/Neuro_Notes_.png" width="65%" />
 </a>
 
 </div>
